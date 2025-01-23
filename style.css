@@ -1,0 +1,14 @@
+/* Fullscreen canvas with dark background */
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #222;
+}
+
+canvas {
+  border: 2px solid white;
+  background-color: #333;
+}
